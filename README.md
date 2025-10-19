@@ -1,6 +1,6 @@
 # Selenium Python POM Framework
 
-A Page Object Model (POM) test automation framework built using Selenium, pytest, and webdriver-manager**.
+A Page Object Model (POM) test automation framework built using Selenium, pytest, and webdriver-manager. It can search a text into the search bar of a web browser.
 
 ## Features
 - Page Object Model (POM)
