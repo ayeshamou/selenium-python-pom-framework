@@ -1,0 +1,17 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Reports
+reports/
+*.html
+
+# Environment files
+.env
+
+# IDE configs
+.vscode/
+.idea/
+
+# WebDriver logs
+*.log
