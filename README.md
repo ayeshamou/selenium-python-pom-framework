@@ -11,19 +11,21 @@ A Page Object Model (POM) test automation framework built using Selenium, pytest
 
 ## Setup Instructions
 
-1. After downloading or cloning with
-   ```bash
+1. After downloading or cloning with:
+```bash
 git clone https://github.com/ayeshamou/selenium-python-pom-framework.git
 ```
-and opening terminal in this folder, install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-4. Run the test:
+open terminal in this folder and install dependencies:
+
+```bash
+   pip install -r requirements.txt
+```
+
+2. Run the test:
    ```bash
    pytest
    ```
 
-5. View the test report:
+3. View the test report:
    Open `reports/test_report.html` in your browser.
